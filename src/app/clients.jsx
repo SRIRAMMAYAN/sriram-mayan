@@ -4,7 +4,7 @@ import { Typography } from "@material-tailwind/react";
 import { SectionTransition } from "@/components/section-transition";
 
 const CERTIFICATIONS = [
-  { name: "Programming with Java", org: "NPTEL" },
+  { name: "Introduction to Large Language Models (LLMs)", org: "NPTEL" },
   { name: "Joy of Computing using Python", org: "NPTEL" },
   { name: "English for Technical Professionals", org: "IEEE" },
   { name: "AWS Solutions Architecture", org: "Amazon Web Services" },
