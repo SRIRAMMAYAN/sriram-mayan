@@ -8,8 +8,8 @@ import { ResumeItem } from "@/components";
 import { SectionTransition } from "@/components/section-transition";
 
 const RESUME_ITEMS = [
-  { icon: AcademicCapIcon,   children: "B.Tech – Artificial Intelligence & Data Science | Mepco Schlenk Engineering College (2022–2026) | CGPA: 6.71" },
-  { icon: DocumentCheckIcon, children: "HSC – Computer Science | Keren Metric Higher Secondary School (2022) | 88.5%" },
+  { icon: AcademicCapIcon,   children: "B.Tech – Artificial Intelligence & Data Science | Mepco Schlenk Engineering College (2022–2026)" },
+  { icon: DocumentCheckIcon, children: "HSC – Computer Science | Keren Metric Higher Secondary School (2022)" },
   { icon: TrophyIcon,        children: "IEEE Published — Brain Tumor Classification using Hybrid CNN + Swin Transformer (SMDFNet-SwinBTC)" },
 ];
 
